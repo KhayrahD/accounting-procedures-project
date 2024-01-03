@@ -14,30 +14,30 @@
 - Output: Worker's salary.
 
 ## Calculate Profit:
-Input: Total sales and total cost of items sold.
-Output: Profit or loss.
+- Input: Total sales and total cost of items sold.
+- Output: Profit or loss.
 
-# Calculate Tips for a Shift:
-Input: Sales data for a specific shift.
-Output: Tips for the shift (2% of shift sales).
+## Calculate Tips for a Shift:
+- Input: Sales data for a specific shift.
+- Output: Tips for the shift (2% of shift sales).
 
-Calculate Total Tips for the Day:
-Input: Sales data for morning and evening shifts.
-Output: Total tips for the day (sum of tips from both shifts).
+## Calculate Total Tips for the Day:
+- Input: Sales data for morning and evening shifts.
+- Output: Total tips for the day (sum of tips from both shifts).
 
-# User Interface
-The project includes a user-friendly interface with the following features:
-A menu of available operations.
-Prompts the user to enter numbers for each operation.
-Accepts user input to choose the desired operation (1-5) or exit the system (6).
-Gracefully handles invalid inputs, that is, non-numeric inputs.
-Displays the result of the selected operation clearly to the user.
-Implements a loop that allows the user to perform multiple calculations until choosing to exit.
+## User Interface
+### The project includes a user-friendly interface with the following features:
+- A menu of available operations.
+- Prompts the user to enter numbers for each operation.
+- Accepts user input to choose the desired operation (1-5) or exit the system (6).
+- Gracefully handles invalid inputs, that is, non-numeric inputs.
+- Displays the result of the selected operation clearly to the user.
+- Implements a loop that allows the user to perform multiple calculations until choosing to exit.
 
-# Getting Started
-To run the program, follow these steps:
-Clone the repository.
-Navigate to the project directory.
-Run the main Python script.
+## Getting Started
+### To run the program, follow these steps:
+- Clone the repository.
+- Navigate to the project directory.
+- Run the main Python script.
 
 Please feel free to contribute to the project or provide feedback. Thank you.
