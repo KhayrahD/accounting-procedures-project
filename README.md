@@ -5,15 +5,15 @@
 - The business, operating two shifts per day with one worker each, requires automation for tasks such as calculating total sales, worker salaries, profit, tips, and total tips for the day.
 
 # Key Features
-Calculate Total Sales for the Day  
-Input: Sales data for morning and evening shifts.
-Output: Total sales for the day.
+## Calculate Total Sales for the Day  
+- Input: Sales data for morning and evening shifts.
+- Output: Total sales for the day.
 
-# Calculate Worker's Salary:
-Input: Hourly rate and hours worked by a worker.
-Output: Worker's salary.
+## Calculate Worker's Salary:
+- Input: Hourly rate and hours worked by a worker.
+- Output: Worker's salary.
 
-# Calculate Profit:
+## Calculate Profit:
 Input: Total sales and total cost of items sold.
 Output: Profit or loss.
 
