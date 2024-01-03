@@ -1,10 +1,11 @@
 # automating-accounting-procedures-project
 
 # Project Overview
-This Python project aims to automate essential accounting procedures for a local retail business. The business, operating two shifts per day with one worker each, requires automation for tasks such as calculating total sales, worker salaries, profit, tips, and total tips for the day.
+- This Python project aims to automate essential accounting procedures for a local retail business. 
+- The business, operating two shifts per day with one worker each, requires automation for tasks such as calculating total sales, worker salaries, profit, tips, and total tips for the day.
 
 # Key Features
-Calculate Total Sales for the Day:
+Calculate Total Sales for the Day  
 Input: Sales data for morning and evening shifts.
 Output: Total sales for the day.
 
@@ -28,14 +29,10 @@ Output: Total tips for the day (sum of tips from both shifts).
 The project includes a user-friendly interface with the following features:
 A menu of available operations.
 Prompts the user to enter numbers for each operation.
-Accepts user input to choose the desired operation (1-5) or exit (6).
-Gracefully handles invalid inputs (e.g., non-numeric inputs).
+Accepts user input to choose the desired operation (1-5) or exit the system (6).
+Gracefully handles invalid inputs, that is, non-numeric inputs.
 Displays the result of the selected operation clearly to the user.
 Implements a loop that allows the user to perform multiple calculations until choosing to exit.
-Organized codes into functions to encapsulate specific operations.
-Maintained a clear separation between function definitions and the main program.
-Include error handling for different scenarios.
-Provides an option for users to exit the program.
 
 # Getting Started
 To run the program, follow these steps:
